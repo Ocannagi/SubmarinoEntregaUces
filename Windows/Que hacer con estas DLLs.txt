@@ -1,0 +1,1 @@
+copiar estas DLLs en la carpeta c:\windows

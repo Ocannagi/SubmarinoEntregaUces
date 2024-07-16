@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1721098917 source:c:\users\cris-pc\desktop\submarino\main.cpp
+	<allegro.h>
+	<string>
+	<conio.h>
+	<sstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<winalleg.h>
+	<fstream>
+	<map>
+	<exception>
+	<list>
+	<vector>
+	<cmath>
+	<typeinfo>
+	<time.h>
+
